@@ -1,4 +1,4 @@
-app = "ai-bg-remover-demo"
+app = "background-remover-2024"
 primary_region = "iad"
 
 [build]
